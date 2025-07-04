@@ -1,6 +1,6 @@
 {
   "nav": {
-    "name": "张琦",
+    "name": "zq's 主页",
     "menu": [
       {
         "text": "Home",
@@ -29,16 +29,16 @@
     ]
   },
   "hero": {
-    "greeting": "Hi",
-    "name": "张琦",
-    "title": "Full Stack Developer",
+    "greeting": "Hi,欢迎访问我的个人主页",
+    "name": "Zhang QI",
+    "title": "后端开发工程师",
     "description": "I build exceptional and accessible digital experiences for the web.",
     "image": "/images/avatar.png",
-    "resume": "https://technical-resume.edgeone.app/"
+    "resume": ""
   },
   "about": {
     "title": "About Me",
-    "description": "Write a detailed description about yourself, your background, and your interests. This section helps visitors get to know you better.",
+    "description": "I am a passionate backend developer with a focus on creating efficient and scalable applications. With experience in various technologies, I enjoy solving complex problems and delivering high-quality software solutions. My goal is to contribute to impactful projects that enhance user experiences and drive innovation.",
     "button": "Download CV",
     "image": "/images/avatar.png"
   },
@@ -206,16 +206,16 @@
     ]
   },
   "contact": {
-    "title": "Contact Me",
-    "description": "Feel free to reach out to me for any questions or opportunities!",
+    "title": "联系我的方式",
+    "description": "如有任何问题或合作机会，请随时与我联系！",
     "emailjs": {
-      "service_id": "YOUR_SERVICE_ID",
-      "template_id": "YOUR_TEMPLATE_ID",
-      "public_key": "YOUR_PUBLIC_KEY",
-      "to_email": "your-email@example.com"
+      "service_id": "zqsee",
+      "template_id": "template_b3xxvav",
+      "public_key": "0mWIVaNHeUfybF8zP",
+      "to_email": "hi@zqsee.com"
     },
     "info": {
-      "email": "your.email@example.com",
+      "email": "hi@zqsee.com",
       "phone": "+86 188 1367 6461",
       "location": "Your Location"
     },
@@ -223,7 +223,7 @@
       {
         "name": "GitHub",
         "icon": "github",
-        "link": "https://github.com/TencentEdgeOne"
+        "link": "https://github.com/ZhangQhhh"
       },
       {
         "name": "LinkedIn",
