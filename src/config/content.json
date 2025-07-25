@@ -216,7 +216,7 @@
     },
     "info": {
       "email": "hi@zqsee.com",
-      "phone": "+86 188 1367 6461",
+      "phone": "+86",
       "location": "Your Location"
     },
     "social": [
@@ -247,5 +247,9 @@
       "message": "Message",
       "submit": "Send Message"
     }
+  },
+  "footer": {
+    "copyright": "© 2025 Zhang QI. All rights reserved.",
+    "beian": "豫ICP备2024102743号"
   }
 } 

@@ -1617,3 +1617,34 @@ p, span, div, h1, h2, h3, h4, h5, h6 {
   color: #695aa6;
   transform: scale(1.05);
 }
+
+/* Footer styles */
+.footer {
+  background-color: #2c2c2c;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-content p {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.footer-content .beian a {
+  color: #ccc;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-content .beian a:hover {
+  color: #695aa6;
+}
